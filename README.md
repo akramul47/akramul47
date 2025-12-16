@@ -21,11 +21,11 @@
 
 <br>
 
-### Experienced Android Developer
+### Cross platform Developer
 
 <img align="right" alt="Coding GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazd5eTd4dWhyOHI0MG9lNWFndXFiaDB0aG54ODg3ZnVqcG5jYmt3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" />
 
-#### Talking about my personal stuff:
+#### About me:
 
 - 👨‍💻 Experienced Flutter Developer with **4+ years** in mobile app development.
 - 💡 Passionate about writing **clean, scalable, and high-performance code**.
@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -64,6 +64,6 @@
 
 [![Akramul's github stats](https://github-readme-stats.vercel.app/api?username=akramul47&theme=gotham&show_icons=true)](https://github.com/akramul47)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akramul47&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akramul47&theme=gotham)]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akramul47&label=Profile%20Visits&style=for-the-badge" alt="akramul47" /> </p>
