@@ -20,11 +20,9 @@
 
 <br>
 
-<table>
-<tr>
-<td width="55%">
-
 ### Cross platform Developer
+
+<img align="right" alt="Coding GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazd5eTd4dWhyOHI0MG9lNWFndXFiaDB0aG54ODg3ZnVqcG5jYmt3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="45%" />
 
 #### About me:
 
@@ -40,16 +38,7 @@
 - 🏆 Optimized app startup time by **30%** in high-traffic applications.
 - 📉 Reduced app size by **50%** through advanced optimization techniques.
 
-</td>
-<td width="45%">
-
-<div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazd5eTd4dWhyOHI0MG9lNWFndXFiaDB0aG54ODg3ZnVqcG5jYmt3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" />
-</div>
-
-</td>
-</tr>
-</table>
+<br clear="all">
 
 <br clear="all">
 
@@ -76,6 +65,6 @@
 
 [![Akramul's github stats](https://github-readme-stats.vercel.app/api?username=akramul47&theme=gotham&show_icons=true)](https://github.com/akramul47)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=akramul47)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=akramul47&theme=gotham)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akramul47&label=Profile%20Visits&style=for-the-badge" alt="akramul47" /> </p>
