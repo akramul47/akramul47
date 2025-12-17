@@ -20,6 +20,8 @@
 
 <br>
 
+<div align="left">
+
 ### Cross platform Developer
 
 <img align="right" alt="Coding GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazd5eTd4dWhyOHI0MG9lNWFndXFiaDB0aG54ODg3ZnVqcG5jYmt3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="45%" />
@@ -37,6 +39,8 @@
 - ⚙️ DevOps: **CI/CD, GitHub Actions**.
 - 🏆 Optimized app startup time by **30%** in high-traffic applications.
 - 📉 Reduced app size by **50%** through advanced optimization techniques.
+
+</div>
 
 <br clear="all">
 
